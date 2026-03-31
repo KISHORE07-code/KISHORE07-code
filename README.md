@@ -32,8 +32,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KISHORE07-code&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
 
 ## 🤝 Connect with Me
 <p align="left">
