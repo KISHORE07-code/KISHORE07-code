@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning modern web technologies and AI.
 - 👯 I’m looking to collaborate on interesting Open Source projects.
 - 💬 Ask me about anything related to technology.
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
+- 📫 How to reach me: [kishored615@gmail.com](mailto:kishored615@gmail.com)
 - ⚡ Fun fact: I love to explore new places and code!
 
 ## 🛠 Technical Skills
